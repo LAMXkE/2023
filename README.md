@@ -1,6 +1,8 @@
 # SmartFarm Infrastructure with Metaverse
 Experience farming anywhere with SFIM! You can check and cultivate your actual farm on Roblox!
 
+See the full detail of this project on [hackster.io](https://www.hackster.io/rudgh9242/smart-farm-infrastructure-with-metaverse-373664)
+
 All devices in this app is powered by oneM2M
 
 This app utilizes [**Mobius**](https://github.com/IoTKETI/Mobius) as IN-CSE and MN-CSE
