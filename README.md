@@ -1,13 +1,15 @@
 # SmartFarm Infrastructure with Metaverse
+![img/tumbnail.jpg](img/thumbnail.jpg)
+
 Experience farming anywhere with SFIM! You can check and cultivate your actual farm on Roblox!
 
-See the full detail of this project on [hackster.io](https://www.hackster.io/rudgh9242/smart-farm-infrastructure-with-metaverse-373664)
+See the full detail of this project on our [hackster.io](https://www.hackster.io/rudgh9242/smart-farm-infrastructure-with-metaverse-373664)
 
 All devices in this app is powered by oneM2M
 
 This app utilizes [**Mobius**](https://github.com/IoTKETI/Mobius) as IN-CSE and MN-CSE
 
-For further information about oneM2M visit [onem2m webpage](onem2m.org)
+For further information about oneM2M visit [onem2m webpage](https://www.onem2m.org)
 <br>
 
 ## Hardware
@@ -33,7 +35,7 @@ The chip used is ESP32 Dev Board.
 
 ### 1) House Device
 
-![/images/HouseDevice.png](/images/HouseDevice.png)
+![img/HouseDevice.png](img/HouseDevice.png)
 
 House device collects following datas.
 
@@ -57,7 +59,7 @@ House device has following actuator
 5. Wait a few seconds and the device would start updating the Sensors
 
 ### 2) Plant Device
-![/images/HouseDevice.png](/images/PlantDevice.png)
+![img/HouseDevice.png](img/PlantDevice.png)
 
 Plant device collects following data.
 
